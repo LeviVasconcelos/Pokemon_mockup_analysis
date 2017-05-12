@@ -1,3 +1,2 @@
-# Exercício de analise de dados
-Uma pequena análise de dados referentes ao jogo pokemon, 
-para exercitar raciocínio analítico e visualização de dados =). 
+# Visualização de dados e análise
+mockup análise para brincar com visualização de dados e praticar raciocínio analítico. 
